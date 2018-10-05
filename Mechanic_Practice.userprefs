@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Utility\ForcedReset.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerScript2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PhoneScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BulletDamage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyScript_Gen.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyAllDirection.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy1Direction.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy1DirectionAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BlockCrumbler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\2D\Scripts\Restarter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIingame.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UIManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PauseController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BackMusic.cs" Line="1" Column="1" />
+      <File FileName="Assets\WallCheck.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyAllDirectionAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Utility\ForcedReset.cs" Line="9" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

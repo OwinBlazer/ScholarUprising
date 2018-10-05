@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: 4d85afdd56f319045912fc5804a059bc
+timeCreated: 1514876080
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Flames 1_0
+    21300002: Flames 1_1
+    21300004: Flames 1_2
+    21300006: Flames 1_3
+    21300008: Flames 1_4
+    21300010: Flames 1_5
+    21300012: Flames 1_6
+    21300014: Flames 1_7
+    21300016: Flames 1_8
+    21300018: Flames 1_9
+    21300020: Flames 1_10
+    21300022: Flames 1_11
+    21300024: Flames 1_12
+    21300026: Flames 1_13
+    21300028: Flames 1_14
+    21300030: Flames 1_15
+    21300032: Flames 1_16
+    21300034: Flames 1_17
+    21300036: Flames 1_18
+    21300038: Flames 1_19
+    21300040: Flames 1_20
+    21300042: Flames 1_21
+    21300044: Flames 1_22
+    21300046: Flames 1_23
+    21300048: Flames 1_24
+    21300050: Flames 1_25
+    21300052: Flames 1_26
+    21300054: Flames 1_27
+    21300056: Flames 1_28
+    21300058: Flames 1_29
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flames 1_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 897
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 897
+        width: 96
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 897
+        width: 92
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 897
+        width: 90
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 768
+        width: 87
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_5
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 769
+        width: 87
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 769
+        width: 87
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 769
+        width: 89
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 640
+        width: 92
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_9
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 641
+        width: 89
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_10
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 640
+        width: 87
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_11
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 640
+        width: 88
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 513
+        width: 89
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_13
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 513
+        width: 86
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_14
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 513
+        width: 98
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_15
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 512
+        width: 103
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 384
+        width: 108
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 385
+        width: 113
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_18
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 385
+        width: 113
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_19
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 384
+        width: 119
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 256
+        width: 114
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 257
+        width: 110
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_22
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 257
+        width: 114
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_23
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 257
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 129
+        width: 105
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_25
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 129
+        width: 104
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_26
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 128
+        width: 99
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_27
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 128
+        width: 102
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1
+        width: 101
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Flames 1_29
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1
+        width: 101
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
